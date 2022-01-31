@@ -1,0 +1,37 @@
+﻿html {
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+}
+
+/*.try-out {
+    display: none
+}*/
+
+.swagger-ui .topbar {
+    padding: 8px 0;
+    background-color: #ff5a00;
+}
+
+.swagger-ui .topbar {
+    height: 70px;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.2);
+}
+
+.topbar-wrapper img {
+    content: url('logo.png');
+    height: 50px;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label {
+    color: #3e3e42;
+}
+
+    .swagger-ui .topbar .download-url-wrapper .select-label select {
+        border: 2px solid #3e3e42;
+    }
