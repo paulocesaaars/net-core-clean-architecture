@@ -1,5 +1,5 @@
-# net-core-clean-archtecture
-Aplicação em net core 6 com com Clean Archtecture, BDD + TDD
+# net-core-clean-architecture
+Aplicação em net core 6 com Clean Architecture, BDD + TDD
 
 # Docker build 
 docker build -f Api-Dockerfile -t deviot.hermes.api .
